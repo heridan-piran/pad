@@ -1,0 +1,4 @@
+TO DO list:
+-Add video converting after downloading(ffmpeg).
+-Add support for more web players.
+-Add support for more anime websites.
